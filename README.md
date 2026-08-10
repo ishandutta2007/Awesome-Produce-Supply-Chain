@@ -1,3 +1,9 @@
+<!--
+  SEO meta for crawlers / previews
+-->
+<meta name="description" content="Awesome Produce Supply Chain — a curated list of the best produce and agricultural supply chain software platforms: ERP, traceability, inventory, farm management, lot tracking, financing, and open-source alternatives with pricing and free tiers.">
+<meta name="keywords" content="produce supply chain software, agricultural supply chain, farm ERP, food traceability software, produce ERP, lot tracking, inventory management, farm management software, open source ERP, agri supply chain, PTI, FSMA, EUDR">
+
 # 🥬 Awesome-Produce-Supply-Chain
 
 <p align="center">
@@ -6,10 +12,12 @@
 
 ## 🏆 Top Produce Supply Chain Platforms
 
-A curated list of leading software platforms for the fresh produce and agricultural supply chain — covering ERP, inventory, lot tracking, traceability, grower accounting, distribution, financing, and quality management.  
+A curated list of leading software platforms for the **fresh produce and agricultural supply chain** — covering **ERP**, **inventory management**, **lot tracking**, **food traceability**, **grower accounting**, **distribution**, **supply chain financing**, and **quality management** for fruits, vegetables, and perishable goods.  
 **Primary focus: open-source software.** 🌱
 
 Commercial / hosted platforms are listed separately for completeness. Open-source alternatives and community tools are emphasized throughout. 🤝
+
+> 📌 **Looking for?** → [SaaS pricing & free tiers](#-saas--hosted-platforms) · [Open-source options](#-open-source-softwares) · [Quick start recommendations](#-quick-start-recommendations)
 
 ---
 
