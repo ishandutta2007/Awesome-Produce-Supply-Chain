@@ -1,19 +1,19 @@
-# Awesome-Produce-Supply-Chain
+# 🥬 Awesome-Produce-Supply-Chain
 
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome Produce Supply Chain banner" width="100%" />
 </p>
 
-## Top Produce Supply Chain Platforms
+## 🏆 Top Produce Supply Chain Platforms
 
 A curated list of leading software platforms for the fresh produce and agricultural supply chain — covering ERP, inventory, lot tracking, traceability, grower accounting, distribution, financing, and quality management.  
-**Primary focus: open-source software.**
+**Primary focus: open-source software.** 🌱
 
-Commercial / hosted platforms are listed separately for completeness. Open-source alternatives and community tools are emphasized throughout.
+Commercial / hosted platforms are listed separately for completeness. Open-source alternatives and community tools are emphasized throughout. 🤝
 
 ---
 
-## SaaS / Hosted Platforms
+## ☁️ SaaS / Hosted Platforms
 
 > **Note:** Company-size figures are best-available public estimates (annual revenue, acquisition value, or raised funding) and may not be precisely comparable across companies.
 
@@ -32,11 +32,11 @@ Commercial / hosted platforms are listed separately for completeness. Open-sourc
 
 ---
 
-## Open-Source Softwares
+## 🐙 Open-Source Softwares
 
-Open-source options for produce and agricultural supply chains are growing, especially around farm management, lot/batch traceability, inventory, and ERP foundations. Fully specialized produce ERP systems are less common than general agri/ERP tools that can be customized.
+Open-source options for produce and agricultural supply chains are growing, especially around farm management, lot/batch traceability, inventory, and ERP foundations. Fully specialized produce ERP systems are less common than general agri/ERP tools that can be customized. 🚀
 
-### Core Frameworks & Agricultural / Supply Chain Platforms
+### 🧱 Core Frameworks & Agricultural / Supply Chain Platforms
 
 | Project | Stars | Description | License | Notes |
 |---------|-------|-------------|---------|-------|
@@ -47,7 +47,7 @@ Open-source options for produce and agricultural supply chains are growing, espe
 | **[INATrace](https://zerodeforestationhub.eu/)** (and similar DIASCA tools) | [![GitHub Stars](https://img.shields.io/github/stars/agstack/inatrace-backend?style=social&color=white)](https://github.com/agstack/inatrace-backend/stargazers) | Open-source digital traceability and farm management solution for agricultural commodities. Supports field mapping, production documentation, and compliance (e.g., EUDR). | Open source | Traceability-focused digital public good |
 | **[AgriOS](https://github.com/advanceinsight/AgriOS)** | [![GitHub Stars](https://img.shields.io/github/stars/advanceinsight/AgriOS?style=social&color=white)](https://github.com/advanceinsight/AgriOS/stargazers) | Open-source ERP built on Odoo Community, designed for agri-SMEs and cooperatives. Integrates operations with supply chain traceability and EUDR compliance focus. | Dual (LGPLv3 + MPL-2.0) | Strong for smallholder & cooperative supply chains |
 
-### Specialized Libraries & Related Tools
+### 🛠️ Specialized Libraries & Related Tools
 
 | Project | Stars | Description | Focus Area |
 |---------|-------|-------------|---------|
@@ -64,7 +64,7 @@ Open-source options for produce and agricultural supply chains are growing, espe
 | **[Gleba](https://gleba.fr/)** | [![GitHub Stars](https://img.shields.io/github/stars/GMS64260/gleba?style=social&color=white)](https://github.com/GMS64260/gleba/stargazers) | Open-source management software for diversified micro-farms (market gardening, orchards, livestock). Planning, interventions, stocks, and basic traceability. | Micro-farm management |
 | **QR / lot traceability apps** (various community projects) | — | Multiple open-source Vue/Django/React systems for generating QR codes and tracking produce lots from farm to consumer. | Simple product traceability |
 
-### Additional Notable Open-Source Tools
+### ⭐ Additional Notable Open-Source Tools
 
 | Project | Stars | Description | Focus Area |
 |---------|-------|-------------|---------|
@@ -76,11 +76,11 @@ Open-source options for produce and agricultural supply chains are growing, espe
 | **[Frappe Framework](https://github.com/frappe/frappe)** | [![GitHub Stars](https://img.shields.io/github/stars/frappe/frappe?style=social&color=white)](https://github.com/frappe/frappe/stargazers) | Full-stack web application framework (the engine behind ERPNext) — a strong base for building produce-specific grower accounting, catch-weight handling, or PTI labeling. | App framework |
 | **[Dolibarr](https://github.com/dolibarr/dolibarr)** | [![GitHub Stars](https://img.shields.io/github/stars/dolibarr/dolibarr?style=social&color=white)](https://github.com/dolibarr/dolibarr/stargazers) | Modular open-source ERP/CRM with invoicing, stock, and e-commerce modules that can be extended with lot tracking and quality modules for produce. | General open-source ERP |
 
-**Note:** Specialized produce features such as grower settlements, price-after-sale, complex repacking, and full PTI/GS1 compliance are more mature in commercial systems. Open-source stacks (especially ERPNext + farmOS + custom modules) provide a strong, low-cost foundation that many organizations extend successfully.
+**Note:** Specialized produce features such as grower settlements, price-after-sale, complex repacking, and full PTI/GS1 compliance are more mature in commercial systems. Open-source stacks (especially ERPNext + farmOS + custom modules) provide a strong, low-cost foundation that many organizations extend successfully. 💪
 
 ---
 
-## Quick Start Recommendations
+## ⚡ Quick Start Recommendations
 
 | Goal | Recommended Starting Point |
 |------|---------------------------|
@@ -98,12 +98,12 @@ Open-source options for produce and agricultural supply chains are growing, espe
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 Contributions, corrections, and new open-source projects are welcome.  
-Please open an issue or pull request.
+Please open an issue or pull request. 🙏
 
 ---
 
-**Last updated:** August 2026  
-Emphasizing open-source tools while documenting the major commercial platforms for context. Open-source options are strongest in farm management, general ERP with batch tracking, and emerging traceability tools; highly specialized produce ERP features often still require commercial solutions or significant customization.
+**Last updated:** August 2026 📅  
+Emphasizing open-source tools while documenting the major commercial platforms for context. Open-source options are strongest in farm management, general ERP with batch tracking, and emerging traceability tools; highly specialized produce ERP features often still require commercial solutions or significant customization. 📈
