@@ -1,6 +1,6 @@
 # Awesome-Produce-Supply-Chain
 
-# Top Produce Supply Chain Platforms
+## Top Produce Supply Chain Platforms
 
 A curated list of leading software platforms for the fresh produce and agricultural supply chain — covering ERP, inventory, lot tracking, traceability, grower accounting, distribution, financing, and quality management.  
 **Primary focus: open-source software.**
