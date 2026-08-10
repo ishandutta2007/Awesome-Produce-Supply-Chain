@@ -10,6 +10,11 @@
   <img src="assets/banner.svg" alt="Awesome Produce Supply Chain banner" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
 ## 🏆 Top Produce Supply Chain Platforms
 
 A curated list of leading software platforms for the **fresh produce and agricultural supply chain** — covering **ERP**, **inventory management**, **lot tracking**, **food traceability**, **grower accounting**, **distribution**, **supply chain financing**, and **quality management** for fruits, vegetables, and perishable goods.  
