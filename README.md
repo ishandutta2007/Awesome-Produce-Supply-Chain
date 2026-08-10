@@ -52,7 +52,7 @@ Open-source options for produce and agricultural supply chains are growing, espe
 
 ### 🧱 Core Frameworks & Agricultural / Supply Chain Platforms
 
-| Project | Stars | Description | License | Notes |
+| Project | Stars_Count | Description | License | Notes |
 |---------|-------|-------------|---------|-------|
 | **[Odoo Community](https://www.odoo.com/)** + Agriculture / Inventory modules | [![GitHub Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Modular open-source ERP with inventory, manufacturing, purchase, sales, and community agriculture/traceability extensions. Widely used and highly customizable. | LGPLv3 | Large ecosystem; many agri-related community modules |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [![GitHub Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Full open-source ERP with strong inventory, batch/expiry tracking, lot/serial number traceability, quality inspection, multi-warehouse, manufacturing, and an Agriculture module for crops, land units, and treatments. Excellent base for produce distributors and processors. | GPL-3.0 | Most practical full open-source ERP for agri/produce |
@@ -63,7 +63,7 @@ Open-source options for produce and agricultural supply chains are growing, espe
 
 ### 🛠️ Specialized Libraries & Related Tools
 
-| Project | Stars | Description | Focus Area |
+| Project | Stars_Count | Description | Focus Area |
 |---------|-------|-------------|---------|
 | **[metasfresh](https://github.com/metasfresh/metasfresh)** | [![GitHub Stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers) | Open-source ERP with manufacturing, inventory, and trade features that can be adapted for food/produce operations. | Flexible open-source ERP |
 | **[OpenFarm](https://github.com/openfarmcc/OpenFarm)** | [![GitHub Stars](https://img.shields.io/github/stars/openfarmcc/OpenFarm?style=social&color=white)](https://github.com/openfarmcc/OpenFarm/stargazers) | Free and open database + API for farming and gardening knowledge (crops, growing guides, and schemas). Useful reference data layer for produce supply chains. | Open ag data / gardening knowledge |
@@ -80,7 +80,7 @@ Open-source options for produce and agricultural supply chains are growing, espe
 
 ### ⭐ Additional Notable Open-Source Tools
 
-| Project | Stars | Description | Focus Area |
+| Project | Stars_Count | Description | Focus Area |
 |---------|-------|-------------|---------|
 | **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** | [![GitHub Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers) | Open-source document management system (DMS) with OCR, tagging, and full-text search — excellent for supplier certificates, audit trails, and compliance documents. | Document & compliance |
 | **[Nextcloud](https://github.com/nextcloud/server)** | [![GitHub Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers) | Self-hosted collaboration and file platform. Centralize supplier documents, certificates, and quality records with end-to-end encryption and audit-friendly sharing. | Document & collaboration |
